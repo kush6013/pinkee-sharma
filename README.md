@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/pinkee-sharma-6057b3204"><img src="https://img.shields.io/badge/LinkedIn-Pinkee_Sharma-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/kush6013"><img src="https://img.shields.io/badge/GitHub-kush6013-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="Pinkee_Sharma_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Resume PDF"></a>
+  <a href="RESUME.md"><img src="https://img.shields.io/badge/Resume-Markdown_Version-green?style=for-the-badge&logo=markdown" alt="Markdown Resume"></a>
 </p>
 
 ---
