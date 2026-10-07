@@ -101,7 +101,11 @@ This repository also hosts my personal portfolio website:
 
 ## 🏆 Certifications & Honours
 
-- **AWS Academy Graduate:** AWS Academy Cloud Foundations
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Oracle University)
+- **Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1** (Oracle University)
+- **AWS Academy Graduate:** Cloud Foundations (Training Badge & Accredited Certificate)
+- **Foundations: Data, Data, Everywhere** (Google / Coursera)
+- **SQL (Intermediate)** (HackerRank)
 - **Smart India Hackathon (SIH):** National Participant & Certificate of Merit
 
 ---

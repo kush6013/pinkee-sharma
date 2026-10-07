@@ -43,3 +43,14 @@ Gurugram, Haryana, India
 
 ### 🎓 Education
 * **Master of Computer Applications (MCA)** — ITM University, Gwalior, M.P. (CGPA: 7.8 / 10.0, Graduating Jun 2026)
+
+---
+
+### 🏆 Certifications & Badges
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle University
+* **Oracle Fusion AI Agent Studio Certified Foundations Associate (Rel 1)** — Oracle University
+* **AWS Academy Graduate — Cloud Foundations** (Training Badge & Certificate)
+* **Foundations: Data, Data, Everywhere** — Google / Coursera
+* **SQL (Intermediate)** — HackerRank
+* **Smart India Hackathon (SIH)** — National Participant & Certificate of Merit
+
