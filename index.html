@@ -47,10 +47,10 @@
 
       <div class="nav-actions">
         <button class="btn btn-secondary btn-sm" id="openResumeModalBtn">
-          <i class="fa-regular fa-file-pdf"></i> Preview Resume
+          <i class="fa-regular fa-file-pdf"></i> Preview
         </button>
-        <a href="Pinkee_Sharma_Resume.pdf" download="Pinkee_Sharma_Resume.pdf" class="btn btn-primary btn-sm">
-          <i class="fa-solid fa-download"></i> PDF
+        <a href="Pinkee_Sharma_Resume.pdf" target="_blank" class="btn btn-primary btn-sm">
+          <i class="fa-solid fa-file-pdf"></i> View PDF
         </a>
         <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle navigation">
           <i class="fa-solid fa-bars"></i>
@@ -86,8 +86,8 @@
           <a href="#projects" class="btn btn-primary">
             <i class="fa-solid fa-layer-group"></i> Explore Projects
           </a>
-          <a href="Pinkee_Sharma_Resume.pdf" download="Pinkee_Sharma_Resume.pdf" class="btn btn-secondary">
-            <i class="fa-solid fa-file-arrow-down"></i> Download Resume
+          <a href="Pinkee_Sharma_Resume.pdf" target="_blank" class="btn btn-secondary">
+            <i class="fa-solid fa-file-pdf"></i> View / Download Resume
           </a>
           <a href="#contact" class="btn btn-accent">
             <i class="fa-regular fa-envelope"></i> Get In Touch
@@ -818,8 +818,11 @@
           <span>Pinkee Sharma — Official Resume</span>
         </div>
         <div style="display: flex; align-items: center; gap: 0.75rem;">
-          <a href="Pinkee_Sharma_Resume.pdf" download="Pinkee_Sharma_Resume.pdf" class="btn btn-primary btn-sm">
-            <i class="fa-solid fa-download"></i> Download PDF
+          <a href="Pinkee_Sharma_Resume.pdf" target="_blank" class="btn btn-primary btn-sm">
+            <i class="fa-solid fa-arrow-up-right-from-square"></i> Open in New Tab
+          </a>
+          <a href="Pinkee_Sharma_Resume.pdf" download="Pinkee_Sharma_Resume.pdf" class="btn btn-secondary btn-sm">
+            <i class="fa-solid fa-download"></i> Download
           </a>
           <button class="modal-close-btn" id="closeResumeModalBtn" aria-label="Close modal">
             <i class="fa-solid fa-xmark"></i>
@@ -827,7 +830,7 @@
         </div>
       </div>
       <div class="modal-body">
-        <iframe src="Pinkee_Sharma_Resume.pdf#toolbar=0" class="resume-iframe" title="Pinkee Sharma Resume PDF"></iframe>
+        <iframe src="Pinkee_Sharma_Resume.pdf" class="resume-iframe" title="Pinkee Sharma Resume PDF"></iframe>
       </div>
     </div>
   </div>
